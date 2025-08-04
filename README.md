@@ -36,13 +36,6 @@
 - ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 - ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 
----
-
-### 📊 GitHub Stats
-
-![Moaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzaza2009&show_icons=true&theme=tokyonight)
-
----
 
 ### 📎 Let's Connect
 
