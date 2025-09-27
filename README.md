@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moaz</h1>
-<p align="center">A 16 y/o Full-stack Software Engineer | Web, Mobile & Backend Developer</p>
+<p align="center">A Full-stack Software Engineer | Web, Mobile & Backend Developer</p>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 I work with **Next.js**, **React Native**, **Node.js**, and **PostgreSQL**
 - 📱 I build production-ready, cross-platform apps for **web and mobile**
 - 🎯 Passionate about performance, scalability, and clean architecture
-- 🌐 Check out my portfolio: [moaz.vercel.app](https://moazzaza.vercel.app) *(or update with your real link)*
+- 🌐 Check out my portfolio: [moazzaza.vercel.app](https://moazzaza.vercel.app) 
 - 📫 Reach me at: **moazzaza2009@gmail.com**
 
 ---
