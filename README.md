@@ -9,7 +9,7 @@
 - 💻 I work with **Next.js**, **React Native**, **Node.js**, and **PostgreSQL**
 - 📱 I build production-ready, cross-platform apps for **web and mobile**
 - 🎯 Passionate about performance, scalability, and clean architecture
-- 🌐 Check out my portfolio: [moaz.vercel.app](https://moaz.vercel.app) *(or update with your real link)*
+- 🌐 Check out my portfolio: [moaz.vercel.app](https://moazzaza.vercel.app) *(or update with your real link)*
 - 📫 Reach me at: **moazzaza2009@gmail.com**
 
 ---
